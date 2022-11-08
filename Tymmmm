@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/AmandaLoys/tym.git
+git add --all
+git commit -m "tymm"
+git push -u origin master
